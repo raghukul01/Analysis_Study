@@ -1,0 +1,75 @@
+body{
+
+  font-family: Verdana,Arial,helvetica,sans-serif;background: #5affff;
+
+}
+
+#Analysistudy {
+    text-align: center;
+  color: #28000c;
+  font-style:normal;
+  font-weight:bold;
+  font-family: sans-serif;
+  font-size: 5em;
+}
+
+#left_div {
+  float:left;
+  width:15%;
+  text-align: left;
+  font-size: 1.6em;
+}
+
+#center_div {
+  float:left;
+  width:60%;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+#right_div {
+  float:right;
+  width:25%;
+  text-align:left;
+}
+
+#footer {
+  text-align: center;
+
+}
+
+#faculty {
+  font-size: 3em;
+  color: #000069;
+}
+
+#fac_name {
+  font-weight:bold;
+  font-size: 1.4em;
+  color: #111111;
+}
+
+#table_main_button {
+  width: 100%;
+  /*border: 1px solid black;*/
+  background-color: #0096ff;
+  border-spacing: 5px;
+  font-size: 1.4em;
+  color: #000000;
+}
+#table_button {
+  width: 100%;
+  border: 10px solid black;
+  background: #ffffff;
+  /*border-spacing: 5px;*/
+  font-size: 1.4em;
+  color: #000000;
+}
+
+a:link, a:visited {
+
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
